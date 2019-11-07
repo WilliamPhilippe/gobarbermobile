@@ -26,7 +26,7 @@ export default (isSigned = false) =>
               activeTintColor: '#FFF',
               inactiveTintColor: 'rgba(255, 255, 255, 0.6)',
               style: {
-                backgroundColor: '#ab59c1',
+                backgroundColor: '#9159e1',
               },
             },
           }
