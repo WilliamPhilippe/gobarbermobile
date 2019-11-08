@@ -35,3 +35,8 @@ export const Separator = styled.View`
   background: rgba(255, 255, 255, 0.1);
   margin: 20px 0 30px;
 `;
+
+export const LogOutButton = styled(Button)`
+  margin-top: 20px;
+  background: #f64c75;
+`;
